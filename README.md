@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Vasanth 👋
 
 #### I am currently a Year 2 Computer Engineering student in NTU. My interests lie mainly in Machine Learning and Artificial Intelligence
 
