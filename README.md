@@ -1,6 +1,6 @@
 ### Hi there, I am Vasanth 👋
 
-#### I am currently a Year 2 Computer Engineering student in NTU. My interests lie mainly in Machine Learning and Artificial Intelligence
+#### I am currently a Year 3 Computer Engineering student in NTU. My interests lie mainly in Machine Learning and Artificial Intelligence
 
 <!--
 **vfxgb/vfxgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
