@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vasanth!</h1>
-<h3 align="center">💻 Machine Learning Engineer</h3>
+<h3 align="center">💻 ML Engineer | AI Researcher</h3>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/vasanth-durvasula-596092216/)" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
