@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/banner.png" height="200"/>
-</p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vasanth!</h1>
 <h3 align="center">💻 Machine Learning Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"/></a>
-  <a href="https://leetcode.com/your-id/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/vasanth-durvasula-596092216/)" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
+  <a href="dssvasanth_gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"/></a>
 </p>
 
 ---
@@ -16,11 +11,11 @@
 ### 👨‍🎓 About Me
 
 🎓 Final Year Computer Engineering student at **NTU, Singapore**  
-🧬 Researcher in AI for Medicine — currently working on **generative models for antibody design**  
+🧬 Researcher in AI for Medicine, currently working on **generative models for antibody design**  
 🧠 Previously interned at **A*STAR**, applying machine learning to **mosquito SNP data** for public health  
 🧠 Also explored **3D segmentation** using SAM3D, SPHARM-Net, and Med-DDPM for neurosurgical planning  
 ⚡ Passionate about combining deep learning with **biomedical applications** to make a real-world impact  
-🏋️‍♂️ Powerlifter on the side — because brains and brawn can coexist 💪
+🏋️‍♂️ Powerlifter on the side, because brains and brawn can coexist 💪
 
 ---
 
@@ -52,20 +47,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vfxgb&show_icons=true&theme=radical" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfxgb&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🚀 Fun Facts
 
 - 🏋️‍♂️ Can deadlift 190kg and debug a PyTorch model the same day  
-- 📚 Always learning something — be it contrastive learning or ethical AI  
-- 🤝 Driven to collaborate on **AI projects that matter** — in health, science, or any field pushing the limits of what's possible.
+- 📚 Always learning something, be it contrastive learning or ethical AI  
+- 🤝 Driven to collaborate on **AI projects that matter**, in health, science, or any field pushing the limits of what's possible.
 
 
 ---
