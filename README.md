@@ -28,9 +28,13 @@
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
 </p>
+
 
 ---
 
