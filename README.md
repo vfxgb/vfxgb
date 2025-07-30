@@ -2,12 +2,12 @@
 <h3 align="center">💻 ML Engineer | AI Researcher</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vasanth-durvasula-596092216/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/vasanth-durvasula-596092216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dssvasanth@gmail.com" title="Email">
-    <img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" alt="Gmail"/>
+  &nbsp;
+  <a href="mailto:dssvasanth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dssvasanth@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
