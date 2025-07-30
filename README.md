@@ -1,18 +1,78 @@
-### Hi there, I am Vasanth 👋
+<p align="center">
+  <img src="https://github.com/your-username/your-username/raw/main/banner.png" height="200"/>
+</p>
 
-#### I am currently a Final Year Computer Engineering student in NTU. My interests lie mainly in Machine Learning and Artificial Intelligence
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vasanth!</h1>
+<h3 align="center">💻 Machine Learning Engineer</h3>
 
-<!--
-**vfxgb/vfxgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"/></a>
+  <a href="https://leetcode.com/your-id/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 About Me
+
+🎓 Final Year Computer Engineering student at **NTU, Singapore**  
+🧬 Researcher in AI for Medicine — currently working on **generative models for antibody design**  
+🧠 Previously interned at **A*STAR**, applying machine learning to **mosquito SNP data** for public health  
+🧠 Also explored **3D segmentation** using SAM3D, SPHARM-Net, and Med-DDPM for neurosurgical planning  
+⚡ Passionate about combining deep learning with **biomedical applications** to make a real-world impact  
+🏋️‍♂️ Powerlifter on the side — because brains and brawn can coexist 💪
+
+---
+
+### 🔧 Technologies I Use
+
+<p align="left">
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+</p>
+
+---
+
+### 🧪 Research Projects
+
+- 🔬 **Generative Antibody Design**  
+  Designing antigen-specific antibodies using diffusion models.
+  
+- 🧠 **Tumor-Aware Brain Segmentation**  
+  Segmenting tumor-distorted brains (computer vision).
+
+- 🧬 **Outlier Detection in Genomic Data**  
+  Used machine learning pipelines for anomaly detection in mosquito SNPs to predict dengue outbreak risk.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🚀 Fun Facts
+
+- 🏋️‍♂️ Can deadlift 190kg and debug a PyTorch model the same day  
+- 📚 Always learning something — be it contrastive learning or ethical AI  
+- 🤝 Driven to collaborate on **AI projects that matter** — in health, science, or any field pushing the limits of what's possible.
+
+
+---
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
+---
+
+📫 Feel free to reach out if you’d like to collaborate, discuss ideas, or just geek out over cool ML papers!
+
