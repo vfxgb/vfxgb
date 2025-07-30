@@ -1,16 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vasanth!</h1>
 <h3 align="center">💻 ML Engineer | AI Researcher</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vasanth-durvasula-596092216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:dssvasanth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dssvasanth@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍🎓 About Me
