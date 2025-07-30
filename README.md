@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=vfxgb&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vasanth!</h1>
 <h3 align="center">💻 ML Engineer | AI Researcher</h3>
 
