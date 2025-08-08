@@ -39,7 +39,7 @@
   Designing antigen-specific antibodies using diffusion models.
   
 - 🧠 **Tumor-Aware Brain Segmentation & Synthetic MRI Generation**  
-  Segmenting tumor-distorted brains and developed diffusion models to generate synthetic MRI scans (computer vision).
+  Segmented tumor-distorted brains and developed diffusion models to generate synthetic MRI scans (computer vision).
 
 - 🧬 **Outlier Detection in Genomic Data**  
   Used machine learning pipelines for anomaly detection in mosquito SNPs to predict dengue outbreak risk.
