@@ -7,10 +7,8 @@
 
 🎓 Final Year Computer Engineering student at **NTU, Singapore**  
 🧬 Researcher in AI for Medicine, currently working on **generative models for antibody design**  
-🧠 Previously interned at **A*STAR**, applying machine learning to **mosquito SNP data** for public health  
 🧠 Worked on **3D segmentation** for neurosurgical planning  
-⚡ Passionate about combining deep learning with **biomedical applications** to make a real-world impact  
-🏋️‍♂️ Powerlifter on the side, because brains and brawn can coexist 💪
+Previously interned at A*STAR, Datature and Synapxe
 
 ---
 
