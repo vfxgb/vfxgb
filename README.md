@@ -6,7 +6,7 @@
 ### 👨‍🎓 About Me
 
 🎓 Final Year Computer Engineering student at **NTU, Singapore**  
-🧬 Researcher in AI for Medicine, currently working on **generative models for antibody design**  
+🧬 Researcher in AI for Medicine, currently working as a Research Assistant on **generative models for antibody design**  
 🧠 Worked on **3D segmentation** for neurosurgical planning  
 💼 Interned at **A*STAR**, **Datature**, and **Synapxe**
 
