@@ -1,8 +1,8 @@
+![](https://komarev.com/ghpvc/?username=vfxgb)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vasanth!</h1>
 <h3 align="center">💻 ML Engineer | AI Researcher</h3>
 
 ---
-
 ### 👨‍🎓 About Me
 
 🎓 Final Year Computer Engineering student at **NTU, Singapore**  
